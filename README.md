@@ -4,7 +4,7 @@
 <!-- badges: end -->
 
 # seq2R
-Simple Method to Detect Compositional Changes in Genomic
+Simple Method to Detect Compositional Changes in Genomic Sequences
 
 ## Description
 This software is useful for loading '.fasta' or '.gbk' files, and for retrieving sequences from 'GenBank' dataset <https://www.ncbi.nlm.nih.gov/genbank/>. This package allows  to detect differences or asymmetries based on nucleotide composition by using local linear kernel smoothers. Also, it is possible to draw inference about critical points (i. e. maximum or minimum points) related with the derivative curves. Additionally, bootstrap methods have been used  for estimating confidence intervals and speed computational techniques (binning techniques) have been implemented in 'seq2R'.
