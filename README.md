@@ -11,7 +11,7 @@ This software is useful for loading '.fasta' or '.gbk' files, and for retrieving
 
 The full methodology of the method to detect changes points in DNA sequences is 
 published in the following paper:
-> Villanueva, N.M., Sestelo, M., Fonseca, M.M. & Roca-Pardinas, J._seq2R: an R package to detect change points in DNA sequences_. Mathematics 11, pages 2299 (2023). https://doi.org/10.3390/math11102299
+> Villanueva, N.M., Sestelo, M., Fonseca, M.M. & Roca-Pardinas, J. _seq2R: an R package to detect change points in DNA sequences_. Mathematics 11, pages 2299 (2023). https://doi.org/10.3390/math11102299
 
 
 ## Installation 
