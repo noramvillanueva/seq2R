@@ -1,6 +1,6 @@
 <!-- badges: start -->
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/grand-total/seq2R)](https://cran.r-project.org/package=seq2R)
-[![CRAN status](https://www.r-pkg.org/badges/version/clustcurv)](https://cran.r-project.org/package=seq2R)
+[![CRAN status](https://www.r-pkg.org/badges/version/seq2R)](https://cran.r-project.org/package=seq2R)
 <!-- badges: end -->
 
 # seq2R
