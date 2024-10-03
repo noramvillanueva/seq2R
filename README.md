@@ -15,8 +15,6 @@ published in the following paper:
 
 
 ## Installation 
-Test 
-
 ```seq2R``` is available through both [CRAN](https://cran.r-project.org/) and Github
 If you want to use the release version of the package, you can install the package from CRAN as follows:
 ```
