@@ -1,5 +1,6 @@
 <!-- badges: start -->
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/grand-total/seq2R)](https://cran.r-project.org/package=seq2R)
+[![CRAN Downloads](https://cranlogs.r-pkg.org/badges/last-month/seq2R?color=ff69b4)](https://cran.r-project.org/package=seq2R)
 [![CRAN status](https://www.r-pkg.org/badges/version/seq2R)](https://cran.r-project.org/package=seq2R)
 [![DOI](https://zenodo.org/badge/866501652.svg)](https://doi.org/10.5281/zenodo.13889992)
 <!-- badges: end -->
